@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a98c7836c5b94c419c63b0515e45404, type: 3}
-  m_Name: Cabbage-CabbageSlices
+  m_Script: {fileID: 11500000, guid: 711827594a63281458810037a64b96de, type: 3}
+  m_Name: Plate
   m_EditorClassIdentifier: 
-  input: {fileID: 11400000, guid: 4138ca30c78a46244900a5427c82c7fd, type: 2}
-  output: {fileID: 11400000, guid: ea1e17d3836b49c4fa75cca8eae5e3aa, type: 2}
-  cuttingProgressMax: 5
+  prefab: {fileID: 4879108819675455447, guid: 26864870c6756654281e37a14ad205ce, type: 3}
+  sprite: {fileID: 21300000, guid: 3928afb5321bb3d489bbd4ac581b29a2, type: 3}
+  objectName: Palte
